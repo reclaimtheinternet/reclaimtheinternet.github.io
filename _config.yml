@@ -1,6 +1,6 @@
-baseurl: '/web'
+baseurl: '/web/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Reclaim'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
